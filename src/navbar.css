@@ -1,0 +1,14 @@
+nav {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0;
+    top: 10%;
+    width: 200px;
+    height: 50vh;
+    
+}
+
+.activeNavbar {
+    display: flex;
+}
